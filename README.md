@@ -207,9 +207,6 @@ int main(void)
 ### LCD OFF:
 ![LCD OFF](https://github.com/JananiSoundararajan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119477549/f6865754-52c5-4890-abfa-47882350f26a)
 
-### LCD ON:
-![PMC4](https://github.com/JananiSoundararajan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119477549/41f7256b-b7df-4485-a34e-2a92ae6e8e0f)
-
  
 ## Circuit Diagram: 
 ![PMC EXP4DES](https://github.com/JananiSoundararajan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119477549/6a84d3b2-212d-4657-ab49-8db2dc24efb6)
